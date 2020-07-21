@@ -15,3 +15,7 @@ pip install -r requirements.txt
 init application:
 
 python main.py
+
+## Flappy source desktop-1.0.jar
+
+https://github.com/caiovini/flappy
